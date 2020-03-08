@@ -16,4 +16,4 @@ Most of the modern-day recommendations sytems use both memory and model based; a
 #### Problems in collaborative filtering
 1. Scalability with new users and new items
 2. Data Sparsity
-3. 
+3. Promoting diversity for items with limitted history.
